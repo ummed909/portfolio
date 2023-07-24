@@ -1,0 +1,24 @@
+.logoContainer{
+    display: flex;
+    width: 130px;
+    height: 60px;
+}
+.img{
+    width: 45%;
+    height: 100%;
+    border: 100000px;
+    border: 1px solid rgba(255, 255, 255, 0.731);;
+    border-radius: 10000px;
+}
+.logoimg{
+    height: 100%;
+    border-radius: 10000px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    margin-left: 5px;
+    color: rgba(255, 255, 255, 0.731);
+}
