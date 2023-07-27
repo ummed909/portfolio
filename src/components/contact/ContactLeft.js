@@ -21,7 +21,10 @@ const ContactLeft = () => {
           responsibilities. I build web releted stuff.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">91-9870013330</span>
+          Country: <span className="text-lightText">India</span>
+        </p>
+        <p className="text-base text-gray-400 flex items-center gap-2">
+          Phone: <span className="text-lightText">9870013330</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">ummedc184@gmail.com</span>
